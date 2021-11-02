@@ -16,3 +16,4 @@ Command to run backend
 Command to run frontend
 -npm run start
 It will run on localhost:3000
+(Note: If frontend folder is not accessible from here, try with https://github.com/prerna2909/blockchain-assignment-frontend)
